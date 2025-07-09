@@ -1,0 +1,362 @@
+[
+  {
+    "name": "Oil-Free Moisturizer",
+    "price": 250,
+    "tags": "oily skin moisturizer acne",
+    "benefits": "Hydrates skin without clogging pores"
+  },
+  {
+    "name": "Salicylic Acid Face Wash",
+    "price": 300,
+    "tags": "acne oily cleanser face wash",
+    "benefits": "Fights acne and controls oil"
+  },
+  {
+    "name": "Sunscreen SPF 50",
+    "price": 400,
+    "tags": "sun protection oily skin sunscreen",
+    "benefits": "Protects against UV rays"
+  },
+  {
+    "name": "Niacinamide Serum",
+    "price": 350,
+    "tags": "serum oily acne",
+    "benefits": "Reduces acne marks and evens skin tone"
+  },
+  {
+    "name": "Face Toner",
+    "price": 200,
+    "tags": "toner oily skin",
+    "benefits": "Tightens pores and refreshes skin"
+  },
+  {
+    "name": "Mattifying Primer",
+    "price": 282,
+    "tags": "primer matte oily",
+    "benefits": "Controls shine and smooths skin"
+  },
+  {
+    "name": "Oil Control Moisturizer ",
+    "price": 284,
+    "tags": "moisturizer oily skin",
+    "benefits": "Hydrates and controls shine"
+  },
+  {
+    "name": "Green Tea Moisturizer ",
+    "price": 180,
+    "tags": "moisturizer oily green tea",
+    "benefits": "Antioxidant-rich hydration"
+  },
+  {
+    "name": "Zinc Sunscreen SPF 30 ",
+    "price": 260,
+    "tags": "sunscreen zinc oily",
+    "benefits": "Protects skin and prevents breakouts"
+  },
+  {
+    "name": "Mattifying Primer ",
+    "price": 478,
+    "tags": "primer matte oily",
+    "benefits": "Controls shine and smooths skin"
+  },
+  {
+    "name": "Charcoal Cleanser ",
+    "price": 319,
+    "tags": "cleanser oily charcoal",
+    "benefits": "Deep cleans pores and absorbs oil"
+  },
+  {
+    "name": "Vitamin C Serum ",
+    "price": 411,
+    "tags": "serum brightening acne scars",
+    "benefits": "Brightens skin and fades scars"
+  },
+  {
+    "name": "Zinc Sunscreen SPF 30 ",
+    "price": 421,
+    "tags": "sunscreen zinc oily",
+    "benefits": "Protects skin and prevents breakouts"
+  },
+  {
+    "name": "Clay Mask ",
+    "price": 411,
+    "tags": "mask oily skin detox",
+    "benefits": "Removes excess oil and impurities"
+  },
+  {
+    "name": "Clay Mask ",
+    "price": 372,
+    "tags": "mask oily skin detox",
+    "benefits": "Removes excess oil and impurities"
+  },
+  {
+    "name": "Mattifying Primer ",
+    "price": 498,
+    "tags": "primer matte oily",
+    "benefits": "Controls shine and smooths skin"
+  },
+  {
+    "name": "Zinc Sunscreen SPF 30 ",
+    "price": 366,
+    "tags": "sunscreen zinc oily",
+    "benefits": "Protects skin and prevents breakouts"
+  },
+  {
+    "name": "Charcoal Cleanser ",
+    "price": 404,
+    "tags": "cleanser oily charcoal",
+    "benefits": "Deep cleans pores and absorbs oil"
+  },
+  {
+    "name": "Green Tea Moisturizer ",
+    "price": 262,
+    "tags": "moisturizer oily green tea",
+    "benefits": "Antioxidant-rich hydration"
+  },
+  {
+    "name": "Green Tea Moisturizer ",
+    "price": 430,
+    "tags": "moisturizer oily green tea",
+    "benefits": "Antioxidant-rich hydration"
+  },
+  {
+    "name": "Green Tea Moisturizer ",
+    "price": 498,
+    "tags": "moisturizer oily green tea",
+    "benefits": "Antioxidant-rich hydration"
+  },
+  {
+    "name": "Vitamin C Serum ",
+    "price": 386,
+    "tags": "serum brightening acne scars",
+    "benefits": "Brightens skin and fades scars"
+  },
+  {
+    "name": "Mattifying Primer ",
+    "price": 411,
+    "tags": "primer matte oily",
+    "benefits": "Controls shine and smooths skin"
+  },
+  {
+    "name": "Aloe Vera Gel ",
+    "price": 492,
+    "tags": "gel soothing oily",
+    "benefits": "Soothes irritation and hydrates skin"
+  },
+  {
+    "name": "Zinc Sunscreen SPF 30 ",
+    "price": 280,
+    "tags": "sunscreen zinc oily",
+    "benefits": "Protects skin and prevents breakouts"
+  },
+  {
+    "name": "Aloe Vera Gel ",
+    "price": 288,
+    "tags": "gel soothing oily",
+    "benefits": "Soothes irritation and hydrates skin"
+  },
+  {
+    "name": "Aloe Vera Gel ",
+    "price": 229,
+    "tags": "gel soothing oily",
+    "benefits": "Soothes irritation and hydrates skin"
+  },
+  {
+    "name": "Clay Mask ",
+    "price": 254,
+    "tags": "mask oily skin detox",
+    "benefits": "Removes excess oil and impurities"
+  },
+  {
+    "name": "Clay Mask ",
+    "price": 359,
+    "tags": "mask oily skin detox",
+    "benefits": "Removes excess oil and impurities"
+  },
+  {
+    "name": "Tea Tree Spot Treatment ",
+    "price": 407,
+    "tags": "acne spot treatment oily",
+    "benefits": "Reduces inflammation and treats pimples"
+  },
+  {
+    "name": "Green Tea Moisturizer ",
+    "price": 308,
+    "tags": "moisturizer oily green tea",
+    "benefits": "Antioxidant-rich hydration"
+  },
+  {
+    "name": "Tea Tree Spot Treatment ",
+    "price": 197,
+    "tags": "acne spot treatment oily",
+    "benefits": "Reduces inflammation and treats pimples"
+  },
+  {
+    "name": "Clay Mask ",
+    "price": 413,
+    "tags": "mask oily skin detox",
+    "benefits": "Removes excess oil and impurities"
+  },
+  {
+    "name": "Tea Tree Spot Treatment ",
+    "price": 308,
+    "tags": "acne spot treatment oily",
+    "benefits": "Reduces inflammation and treats pimples"
+  },
+  {
+    "name": "Charcoal Cleanser ",
+    "price": 192,
+    "tags": "cleanser oily charcoal",
+    "benefits": "Deep cleans pores and absorbs oil"
+  },
+  {
+    "name": "Mattifying Primer ",
+    "price": 424,
+    "tags": "primer matte oily",
+    "benefits": "Controls shine and smooths skin"
+  },
+  {
+    "name": "Aloe Vera Gel ",
+    "price": 498,
+    "tags": "gel soothing oily",
+    "benefits": "Soothes irritation and hydrates skin"
+  },
+  {
+    "name": "Clay Mask ",
+    "price": 478,
+    "tags": "mask oily skin detox",
+    "benefits": "Removes excess oil and impurities"
+  },
+  {
+    "name": "Clay Mask ",
+    "price": 382,
+    "tags": "mask oily skin detox",
+    "benefits": "Removes excess oil and impurities"
+  },
+  {
+    "name": "Oil Control Moisturizer ",
+    "price": 208,
+    "tags": "moisturizer oily skin",
+    "benefits": "Hydrates and controls shine"
+  },
+  {
+    "name": "Vitamin C Serum ",
+    "price": 473,
+    "tags": "serum brightening acne scars",
+    "benefits": "Brightens skin and fades scars"
+  },
+  {
+    "name": "Green Tea Moisturizer 37",
+    "price": 222,
+    "tags": "moisturizer oily green tea",
+    "benefits": "Antioxidant-rich hydration"
+  },
+  {
+    "name": "Tea Tree Spot Treatment ",
+    "price": 201,
+    "tags": "acne spot treatment oily",
+    "benefits": "Reduces inflammation and treats pimples"
+  },
+  {
+    "name": "Zinc Sunscreen SPF 30 ",
+    "price": 499,
+    "tags": "sunscreen zinc oily",
+    "benefits": "Protects skin and prevents breakouts"
+  },
+  {
+    "name": "Aloe Vera Gel ",
+    "price": 283,
+    "tags": "gel soothing oily",
+    "benefits": "Soothes irritation and hydrates skin"
+  },
+  {
+    "name": "Glycolic Acid Toner ",
+    "price": 460,
+    "tags": "toner exfoliate oily",
+    "benefits": "Exfoliates and improves skin texture"
+  },
+  {
+    "name": "Glycolic Acid Toner ",
+    "price": 387,
+    "tags": "toner exfoliate oily",
+    "benefits": "Exfoliates and improves skin texture"
+  },
+  {
+    "name": "Vitamin C Serum ",
+    "price": 472,
+    "tags": "serum brightening acne scars",
+    "benefits": "Brightens skin and fades scars"
+  },
+  {
+    "name": "Aloe Vera Gel ",
+    "price": 312,
+    "tags": "gel soothing oily",
+    "benefits": "Soothes irritation and hydrates skin"
+  },
+  {
+    "name": "Tea Tree Spot Treatment ",
+    "price": 300,
+    "tags": "acne spot treatment oily",
+    "benefits": "Reduces inflammation and treats pimples"
+  },
+  {
+    "name": "Charcoal Cleanser ",
+    "price": 266,
+    "tags": "cleanser oily charcoal",
+    "benefits": "Deep cleans pores and absorbs oil"
+  },
+  {
+    "name": "Zinc Sunscreen SPF  ",
+    "price": 362,
+    "tags": "sunscreen zinc oily",
+    "benefits": "Protects skin and prevents breakouts"
+  },
+  {
+    "name": "Green Tea Moisturizer ",
+    "price": 260,
+    "tags": "moisturizer oily green tea",
+    "benefits": "Antioxidant-rich hydration"
+  },
+  {
+    "name": "Mattifying Primer ",
+    "price": 188,
+    "tags": "primer matte oily",
+    "benefits": "Controls shine and smooths skin"
+  },
+  {
+    "name": "Clay Mask ",
+    "price": 457,
+    "tags": "mask oily skin detox",
+    "benefits": "Removes excess oil and impurities"
+  },
+  {
+    "name": "Aloe Vera Gel ",
+    "price": 439,
+    "tags": "gel soothing oily",
+    "benefits": "Soothes irritation and hydrates skin"
+  },
+  {
+    "name": "Zinc Sunscreen SPF 30 ",
+    "price": 363,
+    "tags": "sunscreen zinc oily",
+    "benefits": "Protects skin and prevents breakouts"
+  },
+  {
+    "name": "Mattifying Primer ",
+    "price": 306,
+    "tags": "primer matte oily",
+    "benefits": "Controls shine and smooths skin"
+  },
+  {
+    "name": "Mattifying Primer ",
+    "price": 307,
+    "tags": "primer matte oily",
+    "benefits": "Controls shine and smooths skin"
+  },
+  {
+    "name": "Zinc Sunscreen SPF 30",
+    "price": 299,
+    "tags": "sunscreen zinc oily",
+    "benefits": "Protects skin and prevents breakouts"
+  }
+]
