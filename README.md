@@ -1,4 +1,4 @@
-# 💄 ClaraSkin – Agentic AI Skincare Assistant
+#  ClaraSkin – Agentic AI Skincare Assistant
 
 ClaraSkin is an **Agentic AI-powered skincare assistant** that helps users discover personalized skincare routines based on their skin type, concerns, and budget. It uses **LangChain**, **Hugging Face LLMs**, and **Streamlit** to simulate an intelligent agent that reasons, plans, and executes tool-based actions to deliver actionable recommendations.
 
