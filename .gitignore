@@ -1,5 +1,7 @@
-.env
+# Ignore virtual environments
+Agentic/
+.venv/
+env/
+venv/
 __pycache__/
 *.pyc
-*.pkl
-*.DS_Store
